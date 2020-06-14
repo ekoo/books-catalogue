@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Apps</string>
+    <string name="retry">RETRY</string>
+    <string name="release">Release :</string>
+    <string name="writer">Writer :</string>
+    <string name="total">Total :</string>
+    <string name="synopsis">Synopsis :</string>
+    <string name="writer_information">Writer Information</string>
+</resources>
